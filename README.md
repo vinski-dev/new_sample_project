@@ -1,1 +1,1 @@
-# new_sample_project
+# New Sample Project
